@@ -9,7 +9,7 @@ const JugadoresComponent = ({ jugadores, titulares, agregarAJugadorTitular, agre
     useEffect(() => {
         setScrollContainer()
         document.addEventListener('click', setScrollContainer)
-    }, []) 
+    }) 
     
     // Función que fija el tamaño del grid de los jugadores
     const setScrollContainer = (desktop = true) => {

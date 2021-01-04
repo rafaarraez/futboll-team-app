@@ -27,7 +27,7 @@ const mapStateToProps = state => ({
     titulares: state.titulares
 })
 
-const mapDispatchToProps ={
+const mapDispatchToProps = {
     quitarAJugadorTitular
 }
 
