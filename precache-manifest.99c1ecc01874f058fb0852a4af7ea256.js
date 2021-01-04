@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "195d01f60c7c967614a168939accb93d",
+    "revision": "50a7b5da36c35f28644ad72e3c84599f",
     "url": "/futboll-team-app/index.html"
   },
   {
-    "revision": "c1f0cc1e59bb6678a35b",
+    "revision": "fdf9c70a6f36393c990e",
     "url": "/futboll-team-app/static/css/main.c060ea37.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/futboll-team-app/static/js/2.913be618.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1f0cc1e59bb6678a35b",
-    "url": "/futboll-team-app/static/js/main.976b8076.chunk.js"
+    "revision": "fdf9c70a6f36393c990e",
+    "url": "/futboll-team-app/static/js/main.e8103388.chunk.js"
   },
   {
     "revision": "bd24f939a1de9477bd0a",
